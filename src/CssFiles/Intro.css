@@ -1,0 +1,73 @@
+.introDiv{
+ 
+    padding: 10px;
+    margin: 10px;
+    width: 40vw;
+    height: 100vh;
+    position: absolute;;
+    overflow: hidden;
+    top: 20vh;
+    left: 10vh;
+    
+    bottom: 10;
+}
+#title{
+    position: relative;
+    top: -10vh;
+    left: 0;
+    
+}
+h1{
+    margin: 0;
+    color: rgb(40, 40, 146);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 70px;
+}
+#Royal{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(40, 40, 146);
+}
+#Ventures{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(40, 40, 146);
+    position: absolute;
+    top: -10vh;
+    left: -10vh;
+    
+}
+#line{
+    position: relative;
+    top: 6vh;
+    
+}
+img{
+    position: absolute;
+    bottom: 30vh;
+    right: -10vh;
+}
+
+#paragraph{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    font-size: 20px;
+    color: rgb(40, 40, 146);
+    position: absolute;
+    top: 40vh;
+}
+button{
+    position: relative;
+    top: 185px;
+    right: 10px;
+    cursor: pointer;
+}
