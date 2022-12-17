@@ -18,8 +18,8 @@ function App() {
      <Router>
       <Header/>
           <Routes>
-
             <Route path="/" element={<CarouselTemp/>}/>
+            <Route path="/Vending-Business-Site/" element={<CarouselTemp/>}/>
             <Route path="/About" element={<About/>} /> 
             <Route path="/Contact" element={<Contact/>}/>
           </Routes>
