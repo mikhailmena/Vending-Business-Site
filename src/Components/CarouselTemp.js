@@ -14,7 +14,7 @@ const CarouselTemp = () => {
 
         <div id='marketing' className="container marketing">
             <h1>ROYALS VENTURES</h1>
-            <div class="row">
+            <div class="row" id='circlediv'>
                 <div class="col-lg-4">
                     <img id='first' className='rounded-circle' src={vet}></img>
                     <h2 class="fw-normal">Veteran Owned</h2>

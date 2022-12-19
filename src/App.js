@@ -11,7 +11,7 @@ import Header from './Components/Header';
 
 
 function App() {
-
+ console.log(2+2)
   return (
     <div className="app">
       
