@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Vending-Business-Site/static/css/main.feba3ae0.css",
-    "main.js": "/Vending-Business-Site/static/js/main.e183f7c1.js",
+    "main.css": "/Vending-Business-Site/static/css/main.5b504b82.css",
+    "main.js": "/Vending-Business-Site/static/js/main.3394d928.js",
     "static/js/787.997b96a6.chunk.js": "/Vending-Business-Site/static/js/787.997b96a6.chunk.js",
     "static/media/blue.png": "/Vending-Business-Site/static/media/blue.29fa6d102b5659847211.png",
     "static/media/vend.svg": "/Vending-Business-Site/static/media/vend.531ba55e3f0a6b8528970e746b5670dc.svg",
@@ -12,12 +12,12 @@
     "static/media/service.png": "/Vending-Business-Site/static/media/service.fc72b8c434d0befd4c06.png",
     "static/media/img1.jpg": "/Vending-Business-Site/static/media/img1.4545b48c49c37b14ee41.jpg",
     "index.html": "/Vending-Business-Site/index.html",
-    "main.feba3ae0.css.map": "/Vending-Business-Site/static/css/main.feba3ae0.css.map",
-    "main.e183f7c1.js.map": "/Vending-Business-Site/static/js/main.e183f7c1.js.map",
+    "main.5b504b82.css.map": "/Vending-Business-Site/static/css/main.5b504b82.css.map",
+    "main.3394d928.js.map": "/Vending-Business-Site/static/js/main.3394d928.js.map",
     "787.997b96a6.chunk.js.map": "/Vending-Business-Site/static/js/787.997b96a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.feba3ae0.css",
-    "static/js/main.e183f7c1.js"
+    "static/css/main.5b504b82.css",
+    "static/js/main.3394d928.js"
   ]
 }
