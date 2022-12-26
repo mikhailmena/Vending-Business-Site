@@ -11,7 +11,7 @@ const togglebut = () =>{
   return (
     <div>
         <header>
-            <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <nav className="navbar navbar-expand-md navbar-dark fixed-bottom bg-dark">
                 <div className="container-fluid">
                 <span className="navbar-brand" href="#">Royals Ventures</span>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
